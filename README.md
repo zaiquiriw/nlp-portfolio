@@ -10,3 +10,6 @@ Just a [simple script](project-1/contact-parser.py) that shows off some basic te
 
 ## Project 2: POS Tagging and NLTK
 Here we have a interactive [guessing game](project-2/guessing-game.py) where the words are taken from a text, tokenized, preprocessed, and the top 50 most common nouns are selected to be options for the guessing game.
+
+## Project 3: WordNet
+This notebook plays with some of the functionality of WordNet, a database that links words based on semantic relationships. Read it [here](wordnet.pdf) and download it [here](wordnet.ipynb)
