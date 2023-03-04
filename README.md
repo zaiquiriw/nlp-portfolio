@@ -12,4 +12,7 @@ Just a [simple script](project-1/contact-parser.py) that shows off some basic te
 Here we have a interactive [guessing game](project-2/guessing-game.py) where the words are taken from a text, tokenized, preprocessed, and the top 50 most common nouns are selected to be options for the guessing game.
 
 ## Project 3: WordNet
-This notebook plays with some of the functionality of WordNet, a database that links words based on semantic relationships. Read it [here](wordnet.pdf) and download it [here](wordnet.ipynb)
+This notebook plays with some of the functionality of WordNet, a database that links words based on semantic relationships. Read it [here](project-3/wordnet.pdf) and download it [here](project-3/wordnet.ipynb)
+
+## Project 4: N-Grams
+Utilzing NLTK I wrote python scripts to create n-grams of some examples of languages [here](project-4/ngram-dictionary.py) and then create a simple language model that identifies if a string of text is likely to be in the analyzed languages: English, French, and Italian. You can run the code [here](language-finder.py). If you are curious about n-grams, I've written a explanatory [summary](project-4/ngrams-assignment.pdf) talking about what they are, and their applications.
