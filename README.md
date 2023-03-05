@@ -16,3 +16,6 @@ This notebook plays with some of the functionality of WordNet, a database that l
 
 ## Project 4: N-Grams
 Utilzing NLTK I wrote python scripts to create n-grams of some examples of languages [here](project-4/ngram-dictionary.py) and then create a simple language model that identifies if a string of text is likely to be in the analyzed languages: English, French, and Italian. You can run the code [here](project-4/language-finder.py). If you are curious about n-grams, I've written a explanatory [summary](project-4/ngrams-assignment.pdf) talking about what they are, and their applications.
+
+## Sentence Parsing
+I've worked a little bit with sentence parses, along with drawing out some parses for my own understanding [here](sentence_parsing.pdf). I must admit English wasn't my favorite subect, so I'm going to let PSGs, Dependency Parse Graphs, and SRL parses do the work for me.
