@@ -19,3 +19,6 @@ Utilzing NLTK I wrote python scripts to create n-grams of some examples of langu
 
 ## Sentence Parsing
 I've worked a little bit with sentence parses, along with drawing out some parses for my own understanding [here](sentence_parsing.pdf). I must admit English wasn't my favorite subect, so I'm going to let PSGs, Dependency Parse Graphs, and SRL parses do the work for me.
+
+## Netscraping!
+Read [this summary](Project 5/Net Scraping a Corpus.pdf) to learn about scraping the web.
