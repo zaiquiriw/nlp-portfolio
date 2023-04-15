@@ -29,3 +29,9 @@ Read [this summary](project-5/summary.pdf) to learn about scraping the web. You 
 
 ## Text Classification!
 It's easy to underestimate how just taking the frequency of each word in a data set would allow you to classify something about data. The classic example is whether an email is spam or not. But in a [small experiement](project-6/text-classification.pdf), I try and classify whether a line of text.. sounds like Rick from Rick and Morty.
+
+## Is Attention Explanation?
+[Maybe?](Summary_of_Attention_Article.pdf)
+
+## A Chatbot
+This is a project I would love to revisit. If you would like to view my initial attempt at a chat bot, I have a report [here](project-7/report.pdf). If you want to look at any scripts, they would be in project folder 7 on the repo!
