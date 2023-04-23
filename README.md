@@ -35,3 +35,6 @@ It's easy to underestimate how just taking the frequency of each word in a data 
 
 ## A Chatbot
 This is a project I would love to revisit. If you would like to view my initial attempt at a chat bot, I have a report [here](project-7/report.pdf). If you want to look at any scripts, they would be in project folder 7 on the repo!
+
+## Text Classification 2
+This is just me attempting to use Keras on the Rick and Morty dataset. Turns out deep learning can't improve a bad dataset. [Check it out](RickMorty2.pdf) if you want!
