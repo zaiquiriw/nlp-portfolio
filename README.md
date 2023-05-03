@@ -1,6 +1,6 @@
 
 ## Howdy!
-This is where I will be keeping all of my work in Natural Language Processing!
+The Sapir–Whorf hypothesis, also known as the linguistic relativity hypothesis, refers to the proposal that the particular language one speaks influences the way one thinks about reality. As Large Lagnauge Models become the way we interact with software,there will be a greater and greater importance in making sure that these models accurately reflect the purpose they are given. If these algorithms are not finely tuned, we may face an erasure of culture or constant bias reflected in major pieces of software. The greater the scale, the greater the power usage and reliance on large monopolistic data cennters as well. I am into NLP because I want to work on these issues, creating architecture to make smaller more interpretable models. I am extremely interested in improving the way we interface with technology, and I want to work on the problems with LLMs while I can.
 
 ## Project 0:
 I've written a [summary of NLP](overview-of-nlp.pdf), and what that means to me!
@@ -38,3 +38,6 @@ This is a project I would love to revisit. If you would like to view my initial 
 
 ## Text Classification 2
 This is just me attempting to use Keras on the Rick and Morty dataset. Turns out deep learning can't improve a bad dataset. [Check it out](RickMortyTwo.pdf) if you want!
+
+## My Resume
+While I'm still working on my portfolio, I'll be linking my resume [here](resume.pdf)!
